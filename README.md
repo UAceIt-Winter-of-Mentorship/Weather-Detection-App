@@ -1,1 +1,1 @@
-# Weather-Detection-App
+# Weather Detection App
