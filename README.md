@@ -7,7 +7,10 @@
 - All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
 - Add a screenshot of the output in the PR's description after the changes you have made.
 
- ## How to start ? 🎪
+## Contributors:
+- Muddhit Baid
+
+## How to start ? 🎪
 
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
