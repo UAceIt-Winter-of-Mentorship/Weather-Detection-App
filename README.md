@@ -9,6 +9,7 @@
 
 ## Contributors:
 - Muddhit Baid
+- Vinamrata Rani
 
 ## How to start ? 🎪
 
